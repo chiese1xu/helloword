@@ -1,4 +1,4 @@
 # helloword
 first project on Github
 
-I tried to learn sth.
+I decided to learn html,css,javascript and jsp & servlet.
