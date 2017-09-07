@@ -2,8 +2,8 @@
 开始学习Github怎么用。
 16:04 用notepad++进行编辑，增加此行数据。 
 16:06 在Github上edit file，增加此行数据。
-
+<<<<<<< HEAD
 16:14 在desktop上增加此条信息。
-
+=======
 16:14 在Github上edit file，增加此行信息。
-
+>>>>>>> 3595190f4e77a03242235a42a5e214d3e4a92c85
